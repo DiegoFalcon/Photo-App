@@ -33,6 +33,7 @@ gem 'jquery-rails'
 gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
+gem 'font-awesome-rails'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
